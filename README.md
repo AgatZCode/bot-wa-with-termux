@@ -6,6 +6,6 @@ install
 > pkg install python -y
 > pkg install git -y
 > git clone https://github.com/AgatZCode/bot-wa-with-termux
-> cd termux-bot-wa
+> cd bot-wa-with-termux
 > bash install.sh
 > npm start / node AgatZ.js```
