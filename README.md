@@ -1,4 +1,13 @@
-install
+# wabot
+
+Simple WhatsApp Bot
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AgatZCode/wabot-aq)
+
+
+
+
+# install
 ```> termux-setup-storage
 (after that tap on permission)
 > pkg update -y
@@ -10,7 +19,10 @@ install
 > bash install.sh
 > npm start / node AgatZ.js```
 
-# wabot-aq
+
+
+
+
 
 Simple WhatsApp Bot
 
